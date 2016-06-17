@@ -1,6 +1,8 @@
-#include <stdio.h>
-
-void myprint()
+int dict_new(char *key_values[])
 {
-  printf("Hello, Luis\n");
+    return 0;
+}
+
+void dict_free(void)
+{
 }
