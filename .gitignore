@@ -1,1 +1,5 @@
 .sconsign.dblite
+*.os
+*.o
+libbatteries.dylib
+test_batteries
